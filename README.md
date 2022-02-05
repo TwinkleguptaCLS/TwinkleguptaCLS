@@ -26,11 +26,17 @@
 - ❤️ Naruto fan <img src="https://user-images.githubusercontent.com/22225821/99891010-119f8f80-2c44-11eb-96ec-5fb56fdf05b3.png" alt="Avatar Konoha" border="0" width="15"> (Dattebayo!)
 - ⚡ Fun fact: In my free time, you'll find me playing games,listening music or watching some series.
 - 💬 I love to learn new things and always ready to help others.
-- 📫 How to reach me? **see links below** <br>
-[![Linkedin: Twinkle Gupta](https://img.shields.io/badge/-Twinkle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/twinkle132/)](https://www.linkedin.com/in/twinkle132/)
- [![Twitter: Me_Twi](https://img.shields.io/twitter/follow/Me_Twi?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Twinkletwiligh3)](https://twitter.com/Twinkletwiligh3)
-[![GitHub: TwinkleguptaCLS](https://img.shields.io/github/followers/Twinkle?label=follow&style=flat-square&logo=github&logoColor=white)](https://github.com/TwinkleguptaCLS)
-&nbsp;<a href="mailto:gtwinkle132@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="20" style="vertical-align:top; margin:5px"></a>
+- 📫 Reach me at **gtwinkle132@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/twinkle132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="twinkle132" height="30" width="40" /></a>
+<a href="https://twitter.com/twinkletwiligh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twinkletwiligh3" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sirius_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sirius_07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/siri_us_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siri_us_7" height="30" width="40" /></a>
+<a href="https://discord.gg/7074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7074" height="30" width="40" /></a>
+</p>
+
+
 
 
 
