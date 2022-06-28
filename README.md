@@ -1,4 +1,4 @@
-## Salve! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <a href="https://www.linkedin.com/in/twinkle132/">I'm Twinkle</a> :woman_technologist: 
+## Salve! <!--<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> --> <a href="https://www.linkedin.com/in/twinkle132/">I'm Twinkle</a> :woman_technologist: 
 
 <p align="center">
  <a href = "https://github.com/Twinkle0799/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2351FF30F3&size=18&center=true&lines=Gonna+become+Ninja+Developer+One+Day+"></a>
