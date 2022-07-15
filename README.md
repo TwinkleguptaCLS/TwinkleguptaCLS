@@ -48,7 +48,7 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/c++1.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/css.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/html.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/js.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/sql.png" alt="mysql" width="40" height="40"/> </a>   </p>
 
 <p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=TwinkleguptaCLS&show_icons=true&locale=en&theme=radical"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=TwinkleguptaCLS&show_icons=true&theme=radical&count_private=true"/>
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=TwinkleguptaCLS&theme=radical"/>
 </p>
 
