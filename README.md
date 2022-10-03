@@ -20,7 +20,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
-- 🎓 I'm a new graduate climbing her way up!.
+- 🎓 Graduated in Computer Science @LPU, working as a Associate Software Engineer.
 - 🌱 I’m currently mastering my DSA skills
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 🤝 I’m looking to collaborate on FullStack(MERN) Projects
